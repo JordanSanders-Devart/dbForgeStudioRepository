@@ -1,1 +1,0 @@
-﻿SELECT * FROM Person.Address a
